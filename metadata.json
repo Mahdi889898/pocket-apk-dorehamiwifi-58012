@@ -1,0 +1,6 @@
+{
+  "name": "دورهمی وای‌فای",
+  "description": "مجموعه بازی‌های اصیل ایرانی تحت وای‌فای با نمای سه‌بعدی و چت صوتی و متنی: منچ قدیم، مار و پله، پچسی، تخته نرد، حکم، شلم، چهاربرگ و هفت خبیث.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

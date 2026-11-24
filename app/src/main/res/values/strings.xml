@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">دورهمی وای‌فای</string>
+    <string name="app_subtitle">منچ قدیم سه‌بعدی، مارپله، تخته نرد، حکم، شلم، چهاربرگ و هفت خبیث تحت وای‌فای</string>
+    <string name="nav_games">بازی‌ها</string>
+    <string name="nav_wifi_lobby">اتاق وای‌فای</string>
+    <string name="nav_profile">پروفایل</string>
+    <string name="action_host_room">ساخت اتاق وای‌فای</string>
+    <string name="action_join_room">اتصال به اتاق</string>
+    <string name="action_direct_ip">اتصال با آی‌پی</string>
+    <string name="action_play_now">شروع بازی</string>
+    <string name="action_play_local">بازی آفلاین / دو نفره</string>
+    <string name="action_play_ai">بازی با هوش مصنوعی</string>
+    <string name="action_leave_room">خروج از اتاق</string>
+    <string name="action_send_message">ارسال پیام</string>
+    <string name="action_push_to_talk">نگه دارید و صحبت کنید</string>
+    <string name="action_open_mic">میکروفون باز</string>
+    <string name="action_mute_speaker">قطع صدای اتاق</string>
+    <string name="chat_placeholder">پیامی برای دوستان بنویسید...</string>
+    <string name="voice_permission_rationale">برای چت صوتی در اتاق بازی، دسترسی به میکروفون لازم است.</string>
+    <string name="wifi_scanning">در حال جستجوی اتاق‌های فعال روی شبکه وای‌فای...</string>
+    <string name="wifi_no_rooms">فعلاً اتاقی روی این وای‌فای پیدا نشد. یک اتاق بسازید تا دوستانتان متصل شوند!</string>
+    <string name="room_chat_title">چت اتاق و صدا</string>
+    <string name="winner_banner">برنده بازی</string>
+    <string name="play_again">بازی مجدد</string>
+    <string name="back_to_lobby">بازگشت به اتاق</string>
+</resources>
